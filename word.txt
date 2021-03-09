@@ -58,7 +58,7 @@ Windows
    タイトルや見出しなどの各構成要素に「タグ」と呼ばれる識別のための目印を使い、意味付けを行っていくことを意味します。
 
    ・HTML
-   HTMLは「HyperText Markup Language」の略で、意味はそれぞれ以下の通りとなります。
+   HTMLは「Hyper Text Markup Language」の略で、意味はそれぞれ以下の通りとなります。
 
    HyperText …特別な役割を持ったテキストデータ(リンクや表など)
    Markup    …印をつける
